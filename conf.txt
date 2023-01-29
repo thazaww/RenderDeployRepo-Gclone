@@ -1,8 +1,8 @@
 [General]
 path_to_gclone = gclone
 
-telegram_token = 
-user_ids =
+telegram_token = 6163109239:AAEeww-87tdoZV6Qdmb5OAC4DBW50QOMzRA
+user_ids = 1281749717
 group_ids = -1
 
 gclone_para_override =
